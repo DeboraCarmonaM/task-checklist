@@ -1,2 +1,2 @@
 # task-checklist
-Checklist utilizando Angular 15
+Checklist utilizando Angular 16
